@@ -1,3 +1,4 @@
+[Karışık Depoo](https://t.me/karisikdepooyazilim)
 # Micro Framework
 
 ### Kurulum
@@ -159,3 +160,5 @@ Döngüler
 
 Daha detaylı dökümantasyon için [Laravel'git](https://laravel.com/docs/8.x/blade)
 
+
+[Karışık Depoo](https://t.me/karisikdepooyazilim)
