@@ -1,4 +1,14 @@
 {
+    "name": "omerfarukbicer0446/framework",
+    "description": "Cibza i\u0000in tasarlanm\u0000\u0000 mikro framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "omerfarukbicer0446",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
     "require": {
         "vlucas/phpdotenv": "^5.2",
         "jenssegers/blade": "^1.4"
