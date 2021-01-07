@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.2",
+        "jenssegers/blade": "^1.4"
+    }
+}
