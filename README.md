@@ -72,13 +72,13 @@ $router->get('/merhaba-yeni', function(){
 Controller oluşturma.
 
 ```php
-Route::controller('merhaba','merhaba@dunya');
+Route::controller('merhaba@dunya');
 // Bu şekilde kullanırsanız app/controllers/merhaba.php den merhaba classının içindeki dunya fonksiyonunu çalıştıracaktır.
-Route::controller('yeni-merhaba','yeni-merhaba');
+Route::controller('yeni-merhaba');
 // Bu şekilde kullanırsanız app/controllers/yeni-merhaba.php den yeni-merhaba classının içindeki index fonksiyonunu çalıştıracaktır.
 
 // controller a değer göndermek için
-Route::controller('merhaba', 'merhaba@dunya', ['title' => 'merhaba']);
+Route::controller('merhaba@dunya', ['title' => 'merhaba']);
 ```
 
 Model oluşturma pek sağlıklı çalışmıyor ama düzelcektir çalışma mantığı controller ile aynıdır denemek isteyen denesin :)
