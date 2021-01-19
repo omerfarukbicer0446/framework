@@ -1,4 +1,3 @@
-[Karışık Depoo](https://t.me/karisikdepooyazilim)
 # Micro Framework
 
 Güncelleme v1.0.2
@@ -217,5 +216,3 @@ Döngüler
 
 Daha detaylı dökümantasyon için [Laravel'git](https://laravel.com/docs/8.x/blade)
 
-
-[Karışık Depoo](https://t.me/karisikdepooyazilim)
